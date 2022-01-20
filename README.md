@@ -1,4 +1,4 @@
-# Ohmyfood!
+# Booki
 
 Booki is a vacation planning tool! Its site allows users to find accommodation and activities in the city of their choice. The accommodations can also be filtered by theme, for example their budget or their atmosphere.
 
