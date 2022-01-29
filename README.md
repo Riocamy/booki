@@ -29,8 +29,8 @@ Booki is a vacation planning tool! Its site allows users to find accommodation a
 
 ## Install the project
 
-If you want to test easily the website project, you can go to github-pages version: https://riocamy.github.io/P2-booki/
+If you want to test easily the website project, you can go to github-pages version: https://riocamy.github.io/booki/
 
 Or you can clone the project directly on your code editor :
 
-[https://github.com/Riocamy/P2-booki.git](https://github.com/Riocamy/P2-booki.git)
+[https://github.com/Riocamy/booki.git](https://github.com/Riocamy/booki.git)
