@@ -1,6 +1,6 @@
 # Booki
 
-Booki is a vacation planning tool! Its site allows users to find accommodation and activities in the city of their choice. The accommodations can also be filtered by theme, for example their budget or their atmosphere.
+Booki is a vacation planning tool! This responsive website allows users to find accommodation and activities in the city of their choice. The accommodations can also be filtered by theme, for example their budget or their atmosphere. This is the second project of my training with OpenClassrooms.
 
 ## Technologies
 - HTML 5
